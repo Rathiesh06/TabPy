@@ -91,7 +91,6 @@ def setup_package():
             "twisted",
             "urllib3",
             "pyttsx3",
-            "pyaudio",
             "speechrecognition"
         ],
         entry_points={
