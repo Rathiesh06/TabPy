@@ -90,8 +90,8 @@ def setup_package():
             "tornado",
             "twisted",
             "urllib3",
-            "pyttsx3",
-            "espeak"
+            "pyttsx3 2.90",
+            "libespeak1"
         ],
         entry_points={
             "console_scripts": [
