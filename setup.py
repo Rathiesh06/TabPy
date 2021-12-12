@@ -90,7 +90,6 @@ def setup_package():
             "tornado",
             "twisted",
             "urllib3",
-            "pypiwin32",
             "pyttsx3",
             "speechrecognition",
             "pyaudio"
