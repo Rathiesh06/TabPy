@@ -93,7 +93,7 @@ def setup_package():
             "pypiwin32",
             "pyttsx3",
             "speechrecognition",
-            
+            "pyaudio"
         ],
         entry_points={
             "console_scripts": [
