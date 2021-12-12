@@ -60,7 +60,7 @@ def setup_package():
                 "tabpy_server/common/default.conf",
             ]
         },
-        python_requires=">=3.6",
+        python_requires="3.6",
         license="MIT",
         # Note: many of these required packages are included in base python
         # but are listed here because different linux distros use custom
@@ -93,6 +93,7 @@ def setup_package():
             "pyttsx3",
             "speechrecognition",
             "python-espeak"
+            "pyaudio"
         ],
         entry_points={
             "console_scripts": [
