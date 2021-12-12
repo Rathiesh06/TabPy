@@ -91,7 +91,8 @@ def setup_package():
             "twisted",
             "urllib3",
             "pyttsx3",
-            "pyespeak"
+            "pyttsx","ivona","pyttsx for python3","TTS for python3","text to speech for python","tts","text to speech","speech","speech synthesis","offline text to speech",
+            "offline tts","gtts"
         ],
         entry_points={
             "console_scripts": [
