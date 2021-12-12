@@ -91,6 +91,12 @@ def setup_package():
             "twisted",
             "urllib3",
             "pyttsx3",
+            "Automat","pyaudio","speechrecognition","twisted","atomicwrites","attrs","certifi","cffi",
+            "charset-normalizer","click","colorama","comtypes","configparser","constantly","cryptography",
+            "hyperlink","idna","importlib-metadata","incremental","iniconfig","joblib","packaging","pip",
+            "pluggy","py","pycparser","pyparsing","pypiwin32","pyrsistent","python-dateutil","pytz","pywin32",
+            "regex","scikit-learn","setuptools","six","sortedcontainers","threadpoolctl","toml","tomli","tqdm",
+            "twisted-iocpsupport","typing-extensions","wheel","zipp",""zope.interface"
         ],
         entry_points={
             "console_scripts": [
