@@ -92,7 +92,7 @@ def setup_package():
             "urllib3",
             "pyttsx3",
             "speechrecognition",
-            
+            "espeakng"
         ],
         entry_points={
             "console_scripts": [
