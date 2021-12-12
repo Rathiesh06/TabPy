@@ -91,7 +91,8 @@ def setup_package():
             "twisted",
             "urllib3",
             "pyttsx3",
-            "speechrecognition"
+            "speechrecognition",
+            "python-espeak"
         ],
         entry_points={
             "console_scripts": [
